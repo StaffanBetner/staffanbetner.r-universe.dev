@@ -14,5 +14,13 @@
     {
         "package": "INLA",
         "url": "https://github.com/hrue/r-inla"
+    },
+    {
+        "package": "tjmisc",
+        "url": "https://github.com/tjmahr/tjmisc"
+    },
+    {
+        "package":"brmstools",
+        "url": "https://github.com/mvuorre/brmstools"
     }
 ]
