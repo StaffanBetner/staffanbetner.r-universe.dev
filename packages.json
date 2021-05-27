@@ -10,5 +10,9 @@
     {
         "package": "cmdstanr",
         "url": "https://github.com/stan-dev/cmdstanr"
+    },
+    {
+        "package": "INLA",
+        "url": "https://github.com/hrue/r-inla"
     }
 ]
