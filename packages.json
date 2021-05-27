@@ -2,5 +2,9 @@
     {
         "package": "purrrgress",
         "url": "https://github.com/TylerGrantSmith/purrrgress"
+    },
+    {
+        "package": "brms",
+        "url": "https://github.com/paul-buerkner/brms"
     }
 ]
