@@ -12,10 +12,6 @@
         "url": "https://github.com/stan-dev/cmdstanr"
     },
     {
-        "package": "INLA",
-        "url": "https://github.com/hrue/r-inla/tree/devel/rinla"
-    },
-    {
         "package": "tjmisc",
         "url": "https://github.com/tjmahr/tjmisc"
     },
