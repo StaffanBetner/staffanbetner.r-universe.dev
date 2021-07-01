@@ -20,11 +20,7 @@
         "url": "https://github.com/mvuorre/brmstools"
     },
     {
-        "package": "Statamarkdown", 
-        "url": "https://github.com/Hemken/Statamarkdown"
-    },
-    {
-        "package": "pavpop",
-        "url": "https://github.com/larslau/pavpop"
+        "package": "INLA", 
+        "url": "https://github.com/hrue/r-inla/tree/devel/rinla"
     }
 ]
