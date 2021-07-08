@@ -20,7 +20,7 @@
         "url": "https://github.com/mvuorre/brmstools"
     },
     {
-        "package": "INLA", 
-        "url": "https://github.com/hrue/r-inla/tree/devel/rinla"
+        "package": "mmtable2", 
+        "url": "https://github.com/ianmoran11/mmtable2"
     }
 ]
