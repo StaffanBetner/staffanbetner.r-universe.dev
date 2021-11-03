@@ -22,5 +22,9 @@
     {
         "package": "mmtable2", 
         "url": "https://github.com/ianmoran11/mmtable2"
+    },
+    {
+        "package": "rmcelreath/rethinking",
+        "url": "https://github.com/rmcelreath/rethinking"
     }
 ]
