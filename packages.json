@@ -26,5 +26,13 @@
     {
         "package": "rethinking",
         "url": "https://github.com/rmcelreath/rethinking"
+    },
+    {
+        "package": "StanHeaders",
+        "url": "https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/StanHeaders"
+    },
+    {
+        "package": "rstan",
+        "url": "https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/rstan"
     }
 ]
