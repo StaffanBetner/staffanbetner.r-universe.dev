@@ -29,10 +29,14 @@
     },
     {
         "package": "StanHeaders",
-        "url": "https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/StanHeaders"
+        "url": "https://github.com/stan-dev/rstan"
+        "branch": "StanHeaders_2.26",
+        "subdir": "StanHeaders"
     },
     {
         "package": "rstan",
-        "url": "https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/rstan"
+        "url": "https://github.com/stan-dev/rstan",
+        "branch": "StanHeaders_2.26",
+        "subdir": "rstan"
     }
 ]
