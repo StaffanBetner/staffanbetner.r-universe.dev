@@ -37,6 +37,6 @@
         "package": "rstan",
         "url": "https://github.com/stan-dev/rstan",
         "branch": "StanHeaders_2.26",
-        "subdir": "rstan"
+        "subdir": "rstan/rstan"
     }
 ]
