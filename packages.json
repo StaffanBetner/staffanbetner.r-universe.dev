@@ -38,5 +38,13 @@
         "url": "https://github.com/stan-dev/rstan",
         "branch": "StanHeaders_2.26",
         "subdir": "rstan/rstan"
+    },
+    {
+        "package": "DHARMa",
+        "url": "https://github.com/florianhartig/DHARMa"
+    },
+    {
+        "package": "glmmTMB",
+        "url": "https://github.com/glmmTMB/glmmTMB"
     }
 ]
