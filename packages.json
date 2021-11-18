@@ -41,10 +41,12 @@
     },
     {
         "package": "DHARMa",
-        "url": "https://github.com/florianhartig/DHARMa"
+        "url": "https://github.com/florianhartig/DHARMa",
+        "subdir": "DHARMa"
     },
     {
         "package": "glmmTMB",
-        "url": "https://github.com/glmmTMB/glmmTMB"
+        "url": "https://github.com/glmmTMB/glmmTMB",
+        "subdir": "glmmTMB"
     }
 ]
