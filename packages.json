@@ -48,5 +48,10 @@
         "package": "glmmTMB",
         "url": "https://github.com/glmmTMB/glmmTMB",
         "subdir": "glmmTMB"
+    },
+    {
+        "package": "ada",
+        "url": "https://github.com/MansMeg/ada_code",
+        "subdir": "rpackage"
     }
 ]
