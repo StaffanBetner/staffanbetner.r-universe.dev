@@ -50,7 +50,7 @@
         "subdir": "glmmTMB"
     },
     {
-        "package": "ada",
+        "package": "adapop",
         "url": "https://github.com/MansMeg/ada_code",
         "subdir": "rpackage"
     }
