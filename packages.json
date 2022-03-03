@@ -50,8 +50,7 @@
         "subdir": "glmmTMB"
     },
     {
-        "package": "adapop",
-        "url": "https://github.com/StaffanBetner/ada_code",
-        "subdir": "rpackage"
+        "package": "openssl",
+        "url": "https://github.com/cran/openssl"
     }
 ]
