@@ -52,5 +52,9 @@
     {
         "package": "openssl",
         "url": "https://github.com/cran/openssl"
+    },
+    {
+        "package": "mgcv",
+        "url": "https://github.com/cran/mgcv"
     }
 ]
