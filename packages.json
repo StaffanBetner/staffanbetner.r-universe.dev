@@ -56,5 +56,26 @@
     {
         "package": "mgcv",
         "url": "https://github.com/cran/mgcv"
+    },
+    {
+        "package": "ggforestplot",
+        "url": "https://github.com/NightingaleHealth/ggforestplot"
+    },
+    {
+        "package": "huttenlocher1991",
+        "url": "https://github.com/tjmahr/huttenlocher1991"
+    },
+    { 
+        "package": "logistf",
+        "url": "https://github.com/georgheinze/logistf"
+    },
+    {
+        "package": "projpred",
+        "url": "https://github.com/stan-dev/projpred",
+        "branch": "develop"
+    },
+    { 
+        "package": "roomba",
+        "url": "https://github.com/cstawitz/roomba"
     }
 ]
