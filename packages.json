@@ -81,5 +81,29 @@
     { 
         "package": "layer",
         "url": "https://github.com/marcosci/layer"
-    }
+    },
+{ 
+  "package": "MatrixLDA",
+  "url": "https://github.com/ajmolstad/MatrixLDA"
+},
+{ 
+  "package": "BvCategorical",
+  "url": "https://github.com/ajmolstad/BvCategorical"
+},
+{ 
+  "package": "MSRL",
+  "url": "https://github.com/ajmolstad/MSRL"
+},
+{ 
+  "package": "MCMVR",
+  "url": "https://github.com/ajmolstad/MCMVR"
+},
+{ 
+  "package": "SurvGPR",
+  "url": "https://github.com/ajmolstad/SurvGPR"
+},
+{ 
+  "package": "penAFT",
+  "url": "https://github.com/ajmolstad/penAFT"
+}
 ]
