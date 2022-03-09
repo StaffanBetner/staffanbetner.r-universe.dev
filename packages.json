@@ -105,5 +105,9 @@
 { 
   "package": "penAFT",
   "url": "https://github.com/ajmolstad/penAFT"
+},
+{ 
+  "package": "debkeepr",
+  "url": "https://github.com/jessesadler/debkeepr"
 }
 ]
