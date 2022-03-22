@@ -109,5 +109,9 @@
 { 
   "package": "debkeepr",
   "url": "https://github.com/jessesadler/debkeepr"
+},
+{ 
+  "package": "ordbetareg",
+  "url": "https://github.com/saudiwin/ordbetareg_pack"
 }
 ]
