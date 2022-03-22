@@ -113,5 +113,10 @@
 { 
   "package": "ordbetareg",
   "url": "https://github.com/saudiwin/ordbetareg_pack"
-}
+},
+    {
+        "package": "INLA",
+        "url": "https://github.com/hrue/r-inla",
+        "subdir": "rinla"
+    }
 ]
