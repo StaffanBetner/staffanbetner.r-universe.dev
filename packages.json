@@ -1,9 +1,5 @@
 [
     {
-        "package": "purrrgress",
-        "url": "https://github.com/TylerGrantSmith/purrrgress"
-    },
-    {
         "package": "brms",
         "url": "https://github.com/paul-buerkner/brms"
     },
@@ -26,18 +22,6 @@
     {
         "package": "rethinking",
         "url": "https://github.com/rmcelreath/rethinking"
-    },
-    {
-        "package": "StanHeaders",
-        "url": "https://github.com/stan-dev/rstan",
-        "branch": "StanHeaders_2.26",
-        "subdir": "StanHeaders"
-    },
-    {
-        "package": "rstan",
-        "url": "https://github.com/stan-dev/rstan",
-        "branch": "StanHeaders_2.26",
-        "subdir": "rstan/rstan"
     },
     {
         "package": "DHARMa",
@@ -87,40 +71,7 @@
         "url": "https://github.com/marcosci/layer"
     },
 { 
-  "package": "MatrixLDA",
-  "url": "https://github.com/ajmolstad/MatrixLDA"
-},
-{ 
-  "package": "BvCategorical",
-  "url": "https://github.com/ajmolstad/BvCategorical"
-},
-{ 
-  "package": "MSRL",
-  "url": "https://github.com/ajmolstad/MSRL"
-},
-{ 
-  "package": "MCMVR",
-  "url": "https://github.com/ajmolstad/MCMVR"
-},
-{ 
-  "package": "SurvGPR",
-  "url": "https://github.com/ajmolstad/SurvGPR"
-},
-{ 
-  "package": "penAFT",
-  "url": "https://github.com/ajmolstad/penAFT"
-},
-{ 
-  "package": "debkeepr",
-  "url": "https://github.com/jessesadler/debkeepr"
-},
-{ 
   "package": "ordbetareg",
   "url": "https://github.com/saudiwin/ordbetareg_pack"
-},
-    {
-        "package": "INLA",
-        "url": "https://github.com/hrue/r-inla",
-        "subdir": "rinla"
-    }
+}
 ]
