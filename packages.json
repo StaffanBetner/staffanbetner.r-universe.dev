@@ -54,6 +54,10 @@
         "url": "https://github.com/cran/openssl"
     },
     {
+        "package": "StanEstimators",
+        "url": "https://github.com/andrjohns/StanEstimators"
+    },
+    {
         "package": "mgcv",
         "url": "https://github.com/cran/mgcv"
     },
