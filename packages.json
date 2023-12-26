@@ -73,5 +73,9 @@
 { 
   "package": "ordbetareg",
   "url": "https://github.com/saudiwin/ordbetareg_pack"
-}
+},
+    {
+        "package": "x13binary",
+        "url": "https://github.com/StaffanBetner/x13binary"
+    }
 ]
