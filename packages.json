@@ -38,10 +38,6 @@
         "url": "https://github.com/cran/openssl"
     },
     {
-        "package": "StanEstimators",
-        "url": "https://github.com/andrjohns/StanEstimators"
-    },
-    {
         "package": "mgcv",
         "url": "https://github.com/cran/mgcv"
     },
@@ -77,5 +73,9 @@
     {
         "package": "x13binary",
         "url": "https://github.com/StaffanBetner/x13binary"
+    },
+    {
+        "package": "StanEstimators",
+        "url": "https://github.com/StaffanBetner/StanEstimators"
     }
 ]
