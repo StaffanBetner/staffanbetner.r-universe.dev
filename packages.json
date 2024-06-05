@@ -54,10 +54,6 @@
         "url": "https://github.com/cstawitz/roomba"
     },
     { 
-        "package": "layer",
-        "url": "https://github.com/marcosci/layer"
-    },
-    { 
   "package": "ordbetareg",
   "url": "https://github.com/saudiwin/ordbetareg_pack"
     },
