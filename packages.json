@@ -77,5 +77,9 @@
     {
         "package": "neodistr",
         "url": "https://github.com/madsyair/neodistr"
+    },
+    {
+        "package": "collostructions",
+        "url": "https://github.com/StaffanBetner/collostructions"
     }
 ]
