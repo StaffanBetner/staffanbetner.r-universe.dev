@@ -66,12 +66,16 @@
         "package": "layer",
         "url": "https://github.com/marcosci/layer"
     },
-{ 
+    { 
   "package": "ordbetareg",
   "url": "https://github.com/saudiwin/ordbetareg_pack"
-},
+    },
     {
         "package": "x13binary",
         "url": "https://github.com/StaffanBetner/x13binary"
+    },
+    {
+        "package": "neodistr",
+        "url": "https://github.com/madsyair/neodistr"
     }
 ]
