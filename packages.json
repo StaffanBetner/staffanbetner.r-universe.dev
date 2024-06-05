@@ -4,10 +4,6 @@
         "url": "https://github.com/paul-buerkner/brms"
     },
     {
-        "package": "cmdstanr",
-        "url": "https://github.com/stan-dev/cmdstanr"
-    },
-    {
         "package": "tjmisc",
         "url": "https://github.com/tjmahr/tjmisc"
     },
@@ -52,11 +48,6 @@
     { 
         "package": "logistf",
         "url": "https://github.com/georgheinze/logistf"
-    },
-    {
-        "package": "projpred",
-        "url": "https://github.com/stan-dev/projpred",
-        "branch": "develop"
     },
     { 
         "package": "roomba",
