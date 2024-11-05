@@ -8,10 +8,6 @@
         "url": "https://github.com/tjmahr/tjmisc"
     },
     {
-        "package":"brmstools",
-        "url": "https://github.com/mvuorre/brmstools"
-    },
-    {
         "package": "mmtable2", 
         "url": "https://github.com/ianmoran11/mmtable2"
     },
